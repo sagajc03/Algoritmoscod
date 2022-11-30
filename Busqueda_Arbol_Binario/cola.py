@@ -1,6 +1,6 @@
-# Costas Rueda Juan Pablo
-# Torres Hernández Andrés Guadalupe
-# Chavarría Villanueva Sebastian
+# Valencia Vazquez Javier
+# Vazquez Rioja Jesus Alberto
+# Salas Gallegos Juan Carlos
 
 class Cola:
     # Crea una cola vacía

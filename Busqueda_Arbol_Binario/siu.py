@@ -1,12 +1,12 @@
-# Costas Rueda Juan Pablo
-# Torres Hernández Andrés Guadalupe
-# Chavarría Villanueva Sebastian
+# Valencia Vazquez Javier
+# Vazquez Rioja Jesus Alberto
+# Salas Gallegos Juan Carlos
 
 import binary_search_tree as BST
 
 def testBinarySearchTree():
     bst = BST.BinarySearchTree()
-    data = [2,21,9,5,18,5,12,14,18,14,2,15,1,1,15,1,19,19,15]
+    data = [100,80,105,70,82,104,110,60,84,103,109,50,62,83,86,108,64,85,107]
     print("insert:", data)
     for d in data:
         bst.insert(d)
